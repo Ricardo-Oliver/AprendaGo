@@ -24,7 +24,7 @@ func main() {
 	pessoa2 := pessoa{
 		"José",
 		"Pereira",
-		[]string{"chocolate", "mroango"},
+		[]string{"chocolate", "morango"},
 	}
 
 	fmt.Println("Meu nome é", pessoa1.nome, pessoa1.sobrenome, "e meus sabores favoritos de sorvete são:")
